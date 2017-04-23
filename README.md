@@ -1,11 +1,11 @@
 # documentacion
 Documentacion sobre el proyecto
 
+# Links
 ## Memoria en linea (Solo personas autorizadas)
 
 https://uandresbelloedu-my.sharepoint.com/personal/s_carreovillanueva_uandresbello_edu/Documents/Memoria/Memoria%20Adaptive.docx?d=wa96e9f413d6341eba3675b5a8fd712d4
 
-# Links
 ## Minutas
 https://campus.ing.unab.cl
 
